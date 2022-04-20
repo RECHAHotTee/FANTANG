@@ -3,6 +3,8 @@
 
 ## 应用gif演示
 
+![fantang](https://user-images.githubusercontent.com/50287648/164221208-c9d78727-fd85-4f75-9f36-fb681492a313.gif)
+
 ## 项目页面开发流程
 
 ### 登录页面
