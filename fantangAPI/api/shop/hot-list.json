@@ -1,0 +1,57 @@
+{
+  "errno": 0,
+  "data": [{
+      _id: '1',
+      name: '桂子怡螺蛳粉',
+      imgUrl: 'https://iconfont.alicdn.com/t/75c0c6c7-2779-4c12-9289-f5e37d0da488.png',
+      sales: 10000,
+      expressLimit: 0,
+      expressPrice: 5,
+      slogan: '每周疯狂星期五送烤肠'
+    },
+    {
+      _id: '2',
+      name: '朱旭拌饭',
+      imgUrl: 'https://iconfont.alicdn.com/t/e8535509-2a15-4e47-842b-20ed67f1ebc5.png',
+      sales: 8000,
+      expressLimit: 0,
+      expressPrice: 5,
+      slogan: '下单立减五元'
+    },{
+      _id: '1',
+      name: '桂子怡螺蛳粉',
+      imgUrl: 'https://iconfont.alicdn.com/t/75c0c6c7-2779-4c12-9289-f5e37d0da488.png',
+      sales: 10000,
+      expressLimit: 0,
+      expressPrice: 5,
+      slogan: '每周疯狂星期五送烤肠'
+    },
+    {
+      _id: '2',
+      name: '朱旭拌饭',
+      imgUrl: 'https://iconfont.alicdn.com/t/e8535509-2a15-4e47-842b-20ed67f1ebc5.png',
+      sales: 8000,
+      expressLimit: 0,
+      expressPrice: 5,
+      slogan: '下单立减五元'
+    },{
+      _id: '1',
+      name: '桂子怡螺蛳粉',
+      imgUrl: 'https://iconfont.alicdn.com/t/75c0c6c7-2779-4c12-9289-f5e37d0da488.png',
+      sales: 10000,
+      expressLimit: 0,
+      expressPrice: 5,
+      slogan: '每周疯狂星期五送烤肠'
+    },
+    {
+      _id: '2',
+      name: '朱旭拌饭',
+      imgUrl: 'https://iconfont.alicdn.com/t/e8535509-2a15-4e47-842b-20ed67f1ebc5.png',
+      sales: 8000,
+      expressLimit: 0,
+      expressPrice: 5,
+      slogan: '下单立减五元'
+    }
+  ],
+  "message": "errno !== 0 error!"
+}

@@ -1,0 +1,24 @@
+{
+  data: [{
+    _id: '1',
+    city: '山东省济南市',
+    department: '山东中医药大学',
+    houseNumber: '桃园',
+    name: '张帅',
+    phone: '17777777777'
+  }, {
+    _id: '2',
+    city: '山东省济南市',
+    department: '山东中医药大学',
+    houseNumber: '桃园',
+    name: '张帅1',
+    phone: '17777777777'
+  }, {
+    _id: '3',
+    city: '山东省济南市',
+    department: '山东中医药大学',
+    houseNumber: '桃园',
+    name: '张帅2',
+    phone: '17777777777'
+  }]
+}

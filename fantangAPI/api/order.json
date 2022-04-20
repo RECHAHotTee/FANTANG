@@ -1,0 +1,55 @@
+{
+  errno: 0,
+  data: [
+      {
+      address: {
+        city: '山东省济南市',
+        department: '山东中医药大学',
+        houseNumber: '桃园',
+        name: '张帅',
+        phone: '17777777777'
+      },
+      shopId: '1',
+      shopNmae: '桂子怡螺蛳粉',
+      isCanceled: false,
+      products: [{
+        orderSales: 5,
+        product: {
+          name: '米饭',
+          img: 'https://iconfont.alicdn.com/t/f8fa2c44-e9d7-4523-b1ce-3e9cf356ae19.png',
+          sales: 10,
+          price: 33.6,
+        }
+      }, {
+        orderSales: 5,
+        product: {
+          name: '水饺',
+          img: 'https://iconfont.alicdn.com/t/2f2d9b21-852d-427a-8922-0ea0981a7b0b.png',
+          sales: 10,
+          price: 33.6,
+        }
+      }]
+    },
+    {
+    address: {
+      city: '山东省济南市',
+      department: '山东中医药大学',
+      houseNumber: '桃园',
+      name: '张帅',
+      phone: '17777777777'
+    },
+    shopId: '2',
+    shopNmae: '朱旭拌饭',
+    isCanceled: true,
+    products: [{
+      orderSales: 5,
+      product: {
+        name: '米饭',
+        img: 'https://iconfont.alicdn.com/t/f8fa2c44-e9d7-4523-b1ce-3e9cf356ae19.png',
+        sales: 10,
+        price: 33.6,
+      }
+    }]
+  }
+  ]
+}

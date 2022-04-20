@@ -1,0 +1,67 @@
+{
+  "errno": 0,
+  "data": [{
+    _id: '1',
+    name: '米饭',
+    imgUrl: 'https://iconfont.alicdn.com/t/f8fa2c44-e9d7-4523-b1ce-3e9cf356ae19.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }, {
+    _id: '2',
+    name: '水饺',
+    imgUrl: 'https://iconfont.alicdn.com/t/2f2d9b21-852d-427a-8922-0ea0981a7b0b.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }, {
+    _id: '3',
+    name: '面条',
+    imgUrl: 'https://iconfont.alicdn.com/t/75c0c6c7-2779-4c12-9289-f5e37d0da488.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  },{
+    _id: '4',
+    name: '米饭',
+    imgUrl: 'https://iconfont.alicdn.com/t/f8fa2c44-e9d7-4523-b1ce-3e9cf356ae19.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }, {
+    _id: '5',
+    name: '水饺',
+    imgUrl: 'https://iconfont.alicdn.com/t/2f2d9b21-852d-427a-8922-0ea0981a7b0b.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }, {
+    _id: '6',
+    name: '面条',
+    imgUrl: 'https://iconfont.alicdn.com/t/75c0c6c7-2779-4c12-9289-f5e37d0da488.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  },{
+    _id: '7',
+    name: '米饭',
+    imgUrl: 'https://iconfont.alicdn.com/t/f8fa2c44-e9d7-4523-b1ce-3e9cf356ae19.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }, {
+    _id: '8',
+    name: '水饺',
+    imgUrl: 'https://iconfont.alicdn.com/t/2f2d9b21-852d-427a-8922-0ea0981a7b0b.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }, {
+    _id: '9',
+    name: '面条',
+    imgUrl: 'https://iconfont.alicdn.com/t/75c0c6c7-2779-4c12-9289-f5e37d0da488.png',
+    sales: 10,
+    price: 33.6,
+    oldPrice: 39.6
+  }]
+}

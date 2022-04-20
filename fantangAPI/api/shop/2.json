@@ -1,0 +1,12 @@
+{
+  "errno": 0,
+  "data": {
+    _id: '2',
+    name: '朱旭拌饭',
+    imgUrl: 'https://iconfont.alicdn.com/t/e8535509-2a15-4e47-842b-20ed67f1ebc5.png',
+    sales: 8000,
+    expressLimit: 0,
+    expressPrice: 5,
+    slogan: '下单立减五元'
+  }
+}
