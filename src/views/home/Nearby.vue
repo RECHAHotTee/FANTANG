@@ -16,6 +16,7 @@ import { ref } from "vue";
 import { get } from "../../utils/request";
 import ShopInfo from "../../components/ShopInfo";
 
+// 异步获取附近热门店铺信息
 const useNearbyListEffect = () => {
   const nearbyList = ref([]);
   const getNearbyList = async () => {

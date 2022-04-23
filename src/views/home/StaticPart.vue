@@ -1,3 +1,4 @@
+// 首页顶部静态页面部分
 <template>
   <div class="position">
     <span class="iconfont position__icon">&#xe619;</span>

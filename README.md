@@ -9,6 +9,12 @@
 * SCSS
 * mockjs
 
+1. ref: 接受一个内部值并返回一个响应式且可变的 ref 对象。
+1. **<router-link>** 是一个组件，该组件用于设置一个导航链接，切换不同 HTML 内容。 **to** 属性为目标地址， 即要显示的内容。
+1. `reactive`：返回对象的响应式副本
+1. `refs`：对 `reactive` 的对象解构
+1.  `watchEffect` ：为了根据响应式状态*自动应用*和*重新应用*副作用，我们可以使用 `watchEffect` 函数。它立即执行传入的一个函数，同时响应式追踪其依赖，并在其依赖变更时重新运行该函数。
+
 ## 应用gif演示
 
 ![fantang](https://user-images.githubusercontent.com/50287648/164221208-c9d78727-fd85-4f75-9f36-fb681492a313.gif)
@@ -123,3 +129,19 @@ padding-bottom: 25.4%;
 
 例如商品详情页中的图片加载速度慢，会出现“图裂了”的提示，这时候只需要在HTML标签里加上
 `v-show="imgUrl"`判断就可以了。
+
+6. 返回上一个页面
+
+   ```js
+   import { useRouter, useRoute } from 'vue-router'
+   
+   const useBackRouterEffect = () => {
+     const router = useRouter()
+     const handleBackClick = () => {
+       router.back()
+     }
+     return handleBackClick
+   }
+   ```
+
+   
